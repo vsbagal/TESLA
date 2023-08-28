@@ -5,3 +5,6 @@ Tesla also offers energy storage solutions and solar products to promote sustain
 The company's vision is to accelerate the global shift towards clean transportation and renewable energy sources.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87yi7dbsoQLvRntS_Gk_V5uMUmtUWJUjV2g&usqp=CAU" alt="Image Description">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87yi7dbsoQLvRntS_Gk_V5uMUmtUWJUjV2g&usqp=CAU" alt="Image Description" width="600" height="300">
+
