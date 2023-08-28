@@ -4,4 +4,4 @@ It's renowned for its cutting-edge electric cars such as Model S, Model 3, Model
 Tesla also offers energy storage solutions and solar products to promote sustainable energy adoption.
 The company's vision is to accelerate the global shift towards clean transportation and renewable energy sources.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHw61vp4qUOm8oxjof6XIx82vplCiqtM0Ig&usqp=CAU" alt="Image Description">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3IOHpIQnF2-cByXUjeZ8IrFsR3c-VWCnew&usqp=CAU" alt="Image Description">
